@@ -58,11 +58,11 @@ button:focus {
 ========================*/
 
 .bg-overlay-gradient {
-    background: #1c1c1c;
+    background: black;
     /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #3c405a, #1c1c1c);
+    background: -webkit-linear-gradient(to right, #3c405a, #black);
     /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #3c405a, #1c1c1c);
+    background: linear-gradient(to right, #3c405a, #black);
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     opacity: 0.9;
     position: absolute;
@@ -79,7 +79,7 @@ button:focus {
     position: relative;
     /* padding-top: 0; */
     /* padding-bottom: 0; */
-    background-color: #1c1c1c;
+    background-color: black;
 }
 
 .back_top {
@@ -338,12 +338,12 @@ button:focus {
 ============================*/
 
 .home-bg-color {
-    background-color: #1c1c1c;
+    background-color: black;
     padding-top: 0;
 }
 
 .home-bg {
-    background-color: #1c1c1c; /* Matte black */
+    background-color: black; /* Matte black */
     background-position: center center;
     background-size: cover;
     background-attachment: fixed;
