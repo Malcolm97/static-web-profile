@@ -436,7 +436,7 @@ button:focus {
         line-height: 1.8;
     }
     .h-100vh {
-        height: auto;
+       /* height: auto; */
     }
     .clip-home {
         clip-path: none;
@@ -451,7 +451,7 @@ button:focus {
     .h-100vh,
     .home-half,
     .half-slider {
-        padding: 130px 0 130px 0;
+        /* padding: 120px 0 120px 0; */
     }
     .custom-nav .navbar-brand.logo img {
         height: 26px;
