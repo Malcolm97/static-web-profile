@@ -31,7 +31,7 @@
 body {
     font-family: 'Open Sans', sans-serif;
     overflow-x: hidden;
-    z-index: 100;
+    
 }
 
 h1,
@@ -364,7 +364,7 @@ button:focus {
 .header_btn span {
     position: relative;
     top: 14px;
-    z-index: 2;
+    z-index: 9999999;
 }
 
 .header_title {
