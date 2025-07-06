@@ -364,6 +364,7 @@ button:focus {
 .header_btn span {
     position: relative;
     top: 14px;
+    z-index: 2;
 }
 
 .header_title {
