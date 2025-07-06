@@ -90,7 +90,7 @@ button:focus {
     width: 37px;
     background-color: #a9143f;
     display: none;
-    z-index: 10000;
+    z-index: 10;
     border-radius: 50px;
     right: 20px;
     transition: all 0.5s;
@@ -238,7 +238,7 @@ button:focus {
     padding: 22px 0px;
     width: 100%;
     border-radius: 0px;
-    z-index: 999;
+    z-index: 99;
     margin-bottom: 0px;
     transition: all 0.5s ease-in-out;
     background-color: transparent;
@@ -364,7 +364,7 @@ button:focus {
 .header_btn span {
     position: relative;
     top: 14px;
-    z-index: 9999999;
+    z-index: 9999;
 }
 
 .header_title {
