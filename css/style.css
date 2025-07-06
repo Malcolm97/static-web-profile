@@ -389,7 +389,7 @@ button:focus {
     background: transparent linear-gradient(to right, rgba(255, 255, 255, 0), rgb(52, 58, 64), rgba(255, 255, 255, 0)) repeat scroll 0 0;
     position: relative;
     display: inline-block;
-    padding: 5px 40px;
+    padding: 6px 40px;
 }
 
 .skill_home li:last-child:after {
@@ -425,7 +425,7 @@ button:focus {
 .home-bg-pattern {
     padding-top: 200px;
     background-color: #22232f;
-    background-image: url(../img/pettern.png);
+    background-image: url(../img/pattern.png);
     background-position: center center;
 }
 
