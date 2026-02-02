@@ -472,9 +472,25 @@ button:focus {
     .skill_home li::after {
         display: none;
     }
-    .skill_home li {
-        display: block;
-    }
+.skill_home li {
+    display: block;
+}
+
+/* Contact link styles for better readability */
+.contact-info-line-2 a,
+.contact-info-line-3 a {
+    color: #e0e0e0 !important; /* Light gray for better readability */
+    text-decoration: none !important;
+    transition: all 0.3s ease;
+    font-weight: 500;
+}
+
+.contact-info-line-2 a:hover,
+.contact-info-line-3 a:hover {
+    color: #fff !important; /* White on hover */
+    text-decoration: underline !important;
+    transform: translateY(-1px);
+}
     .work_menu li:after {
         display: none;
     }
